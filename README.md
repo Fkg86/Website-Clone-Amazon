@@ -1,6 +1,6 @@
 # E-commerce Website
 
-A e-commerce website project was developed.
+E-commerce website project was developed.
 
 # Used technologies
 
