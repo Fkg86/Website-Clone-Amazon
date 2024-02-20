@@ -1,6 +1,6 @@
 # E-commerce Website
 
-A responsive movie website project was developed.
+A e-commerce website project was developed.
 
 # Used technologies
 
